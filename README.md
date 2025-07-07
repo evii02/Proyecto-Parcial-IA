@@ -1,7 +1,10 @@
-# Proyecto-parcial-IA
+# Batalla Galáctica
 
-## Nombre
+Juego desarrollado como proyecto parcial.
 
-## Matrícula
+- Nombre: [Francisiveliz nuñez matos]
+- Matrícula: [22-eisn-2-019]
 
-## Proyecto
+## Requisitos
+```bash
+pip install -r requirements.txt
